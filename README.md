@@ -10,11 +10,11 @@ a10-chef is a set of Chef resources and recipes for interacting with AXAPI v3 fo
 a10-chef can be installed from the Github repository. It is assumed that chef is already installed and configured.
 
 ## Recipes
-Please see (https://github.com/a10networks/a10-chef/tree/master/recipes) for example recipes.
+Please see (https://github.com/a10networks/a10-chef/tree/master/a10_chef/recipes) for example recipes.
 
 
 ## Bug Reporting and Feature Requests
 Please submit bug reports and feature requests via GitHub issues. When reporting bugs, please include the playbook that demonstrates the bug and the Saltstack output. Stack traces are always nice, but state files work well. Please ensure any sensitive information is redacted as Issues and Pull Requests are publicly viewable.
 
 ## Contact
-If you have a question that cannot be submitted via Github Issues, please email openstack-dl@a10networks.com with "a10-saltstack" in the subject line. 
+If you have a question that cannot be submitted via Github Issues, please email openstack-dl@a10networks.com with "a10-chef" in the subject line. 
