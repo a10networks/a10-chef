@@ -9,11 +9,6 @@ a10-chef is a set of Chef resources and recipes for interacting with AXAPI v3 fo
 ## Installation
 a10-chef can be installed from the Github repository. It is assumed that chef is already installed and configured.
 
-### Github Installation
-```console
-
-```
-
 ## Recipes
 Please see (https://github.com/a10networks/a10-chef/tree/master/recipes) for example recipes.
 
